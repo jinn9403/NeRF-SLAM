@@ -66,7 +66,7 @@
 
 ## Install
 
-Clone repo with submodules:
+Clone repo with submodules:(you have to direct to the NeRF-SLAM directory before implement the second command
 ```
 git clone https://github.com/ToniRV/NeRF-SLAM.git --recurse-submodules
 git submodule update --init --recursive
